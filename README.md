@@ -1,4 +1,4 @@
-# Frorage_PWC_Customer-Retention
+# Forage_PWC_Customer-Retention
   A few weeks after presenting your dashboard, the Retention Manager from the telecom company reaches out, impressed by your work. He requests a dashboard focused on customer 
   retention.
   
