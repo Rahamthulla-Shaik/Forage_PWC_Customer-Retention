@@ -14,4 +14,4 @@
 
   Clear Visualizations: We need clear and self-explanatory visualizations of customer data for our management team.
 # For dashboard click below link.
-# https://app.powerbi.com/view?r=eyJrIjoiN2U3MGM4NjQtNDcyNy00NjBlLWFhNzEtOTljN2ZiMTVhNDgzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+# Link - https://app.powerbi.com/view?r=eyJrIjoiN2U3MGM4NjQtNDcyNy00NjBlLWFhNzEtOTljN2ZiMTVhNDgzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
